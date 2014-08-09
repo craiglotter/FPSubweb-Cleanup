@@ -1,0 +1,4 @@
+FPSubweb-Cleanup
+================
+
+Front Page Server Extensions automatically creates a number of special "_vti" folders containing configuration information whenever any subwebs are defined in a website. FPSubweb Cleanup is a simple application that recursively removes any folder starting with "_" in the user-specified base folder.  Created by Craig Lotter, December 2006
